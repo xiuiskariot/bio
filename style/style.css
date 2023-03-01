@@ -2,3 +2,47 @@
   margin: 0;
   padding: 0;
 }
+
+header {
+  text-align: center;
+  padding: 7px;
+}
+
+.avatar {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 2px black solid;
+}
+
+h1 {
+  margin: 0 auto;
+  display: block;
+  border: 5px solid lightblue;
+  border-radius: 20px;
+  width: 220px;
+}
+
+ul {
+  margin: 0 auto;
+  max-width: 300px;
+  list-style: none;
+  text-align: center;
+}
+
+li {
+  background: lightpink;
+  margin: 20px 0;
+  border: 2px solid lawngreen;
+  padding: 16px;
+  border-radius: 20px;
+  display: flex;
+  
+}
+
+a{
+  display: flex;
+  align-items: ;
+  width: 20px;
+  height: 20px;
+}
